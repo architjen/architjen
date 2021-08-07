@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**architjen/architjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is Archit, Im a Data Scientist based in Lyon, France.
 
 Here are some ideas to get you started:
 
