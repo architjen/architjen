@@ -19,6 +19,19 @@ Im a Data Scientist based in Lyon, France 🇫🇷. I love talking about data an
 <img alt="TF" src="https://img.shields.io/badge/Tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/Pytorch-D00000?style=for-the-badge&logo=pytorch&logoColor=white"/> <img alt="SkL" src="https://img.shields.io/badge/SciKit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 
+<h4><strong>Data Engineering</strong></h4>
+
+<img alt="TF" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Plotly-013243?style=for-the-badge&logo=plotly&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>  <img alt="TF" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>  
+
+
+<h4><strong>Database</strong></h4>
+
+<img alt="TF" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/PostgresSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+
+
+<h4><strong>Backend</strong></h4>
+
+<img alt="TF" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/nginx-269539?style=for-the-badge&logo=nginx&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/apache-A81C7D?style=for-the-badge&logo=apache&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white"/> 
 
 - 🔭 You can follow my activities [here](https://nestontree.wordpress.com/)
 <!-- - 🔭 I’m currently working on -->
