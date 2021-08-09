@@ -42,7 +42,7 @@ src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastap
 
 - 🔭 You can follow my activities [here](https://nestontree.wordpress.com/)
 <!-- - 🔭 I’m currently working on -->
-- 👯 I’m open to collaborate on open source projects
+- 👯 I’m open to collaborate on open-source projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!--- 💬 Ask me about -->
 - 📫 You can reach me [at](https://nestontree.wordpress.com/contact-me/)
