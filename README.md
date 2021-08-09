@@ -33,6 +33,13 @@ Im a Data Scientist based in Lyon, France 🇫🇷. I love talking about data an
 
 <img alt="TF" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/nginx-269539?style=for-the-badge&logo=nginx&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/apache-A81C7D?style=for-the-badge&logo=apache&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white"/> 
 
+
+<img alt="TF" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
+
+<h4><strong>IoT</strong></h4>
+
+<img alt="TF" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&logo=amazon-alexa&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Eagle-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
+
 - 🔭 You can follow my activities [here](https://nestontree.wordpress.com/)
 <!-- - 🔭 I’m currently working on -->
 - 👯 I’m looking to collaborate on open source projects
