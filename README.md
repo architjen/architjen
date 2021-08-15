@@ -9,7 +9,7 @@ Im a Data Scientist based in Lyon, France 🇫🇷. I love talking about data an
 
 <h4><strong>Languages</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/SQL-3376C8?style=for-the-badge&logo=sql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/> 
+<a href="https://www.python.org/"><img alt="TF" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a> <img alt="TF" src="https://img.shields.io/badge/SQL-3376C8?style=for-the-badge&logo=sql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/> 
 <img alt="TF" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
 
 
