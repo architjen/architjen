@@ -42,17 +42,15 @@ src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastap
 
 <img alt="TF" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> <img alt="TF" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architjen)](https://github.com/architjen/MLOps_wine_quality)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architjen)](https://github.com/architjen) -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!--- 💬 Ask me about -->
+<!-- - 🔭 I’m currently working on -->
 
 - :zap: I love math, programming, data science, and books
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my [blogs](https://nestontree.wordpress.com/)
-<!-- - 🔭 You can follow my activities [here]-->
-<!-- - 🔭 I’m currently working on -->
 - 👯 I’m open to collaborate on open-source projects
-<!-- - 🤔 I’m looking for help with ... -->
-<!--- 💬 Ask me about -->
 - 📫 You can reach me [at](https://nestontree.wordpress.com/contact-me/)
-<!--- 😄 Pronouns: ... -->
 - 🌱 I’m addicted to learning and growing every day
 - ⚡ Fun fact: I've recently started running 🏃🏼(my best: 5kms under 23minutes) and solving Rubiks Cube (my best: under a minute)
 
