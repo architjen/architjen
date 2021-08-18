@@ -42,7 +42,7 @@ src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastap
 
 <img alt="TF" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> <img alt="TF" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architjen)](https://github.com/architjen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architjen)](https://github.com/architjen/MLOps_wine_quality)
 
 - :zap: I love math, programming, data science, and books
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my [blogs](https://nestontree.wordpress.com/)
