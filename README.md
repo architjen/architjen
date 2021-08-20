@@ -22,7 +22,7 @@ Im a Data Scientist based in Lyon, France 🇫🇷. I love talking about data an
 <h4><strong>Database</strong></h4>
 <!-- <img alt="TF" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> -->
 
-<img alt="TF" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/PostgresSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>  <img alt="TF" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<a href="https://dev.mysql.com/doc/"><img alt="TF" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a> <img alt="TF" src="https://img.shields.io/badge/PostgresSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>  <img alt="TF" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 
 
 <h4><strong>Backend</strong></h4>
