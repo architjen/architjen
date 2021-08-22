@@ -29,7 +29,7 @@ Im a Data Scientist based in Lyon, France 🇫🇷. I love talking about data an
 <!-- <img alt="TF" src="https://img.shields.io/badge/nginx-269539?style=for-the-badge&logo=nginx&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/apache-A81C7D?style=for-the-badge&logo=apache&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white"/> 
 --> 
 
-<img alt="TF" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img alt="TF" 
+<a href="https://docs.djangoproject.com/en/3.2/"><img alt="TF" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a> <img alt="TF" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img alt="TF" 
 src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> 
 
 
