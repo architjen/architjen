@@ -35,7 +35,7 @@ src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastap
 
 <h4><strong>Cloud</strong></h4>
 
-<a href="https://cloud.google.com/"><img alt="TF" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a> <a href="https://docs.github.com/en/actions"><img alt="TF" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a> <img alt="TF" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
+<a href="https://cloud.google.com/"><img alt="TF" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a> <a href="https://docs.github.com/en/actions"><img alt="TF" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a> <a href=""><img alt="TF" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
 
 
 <h4><strong>IDEs</strong></h4>
