@@ -40,7 +40,7 @@ src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastap
 
 <h4><strong>IDEs</strong></h4>
 
-<a href="https://code.visualstudio.com/docs"><img alt="TF" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a> <a href=""<img alt="TF" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> <img alt="TF" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"/>
+<a href="https://code.visualstudio.com/docs"><img alt="TF" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a> <a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true"><img alt="TF" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/></a> <img alt="TF" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architjen)](https://github.com/architjen) -->
 <!-- - 🤔 I’m looking for help with ... -->
