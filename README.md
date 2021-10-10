@@ -4,7 +4,7 @@
 **architjen/architjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Im a Data Scientist based in Lyon, France 🇫🇷. I love talking about data and new technologies. In my leisure time I like to read 📝, cook 🍲, play guitar 🎸 and workout 🤸🏼
+Im a Data Scientist | ML Engineer based in Lyon, France 🇫🇷. I love talking about data and new technologies. In my leisure time I like to read 📝, cook 🍲, play guitar 🎸 and workout 🤸🏼
 
 
 <h4><strong>Languages</strong></h4>
@@ -47,8 +47,8 @@ src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastap
 <!--- 💬 Ask me about -->
 <!-- - 🔭 I’m currently working on -->
 
-- :zap: I love math, programming, data science, and books
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my [blogs](https://nestontree.wordpress.com/)
+- :zap: I have keen interest in math, programming, and data science.
+- :earth_africa: I share a little bit of my knowledge to the world through my [blogs](https://nestontree.wordpress.com/)
 - 👯 I’m open to collaborate on open-source projects
 - 📫 You can reach me [at](https://nestontree.wordpress.com/contact-me/)
 - 🌱 I’m addicted to learning and growing every day
