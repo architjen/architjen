@@ -52,7 +52,7 @@ src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastap
 - 👯 I’m open to collaborate on open-source projects
 - 📫 You can reach me [at](https://nestontree.wordpress.com/contact-me/)
 - 🌱 I’m addicted to learning and growing every day
-- ⚡ Fun fact: I've recently started running 🏃🏼(my best: 5kms under 23minutes) and solving Rubiks Cube (my best: under a minute)
+<!-- - ⚡ Fun fact: I've recently started running 🏃🏼(my best: 5kms under 23minutes) and solving Rubiks Cube (my best: under a minute)-->
 
 
   
