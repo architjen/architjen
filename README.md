@@ -4,7 +4,7 @@
 **architjen/architjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Im a Data Scientist|ML Engineer based in Lyon, France 🇫🇷. I have Bachelor’s degree in Computer Engineering and Master’s in Machine Learning. I enjoy solving problems and have a big appetite for continually learning and growing. In my spare time I like to read 📝, cook 🍲, play guitar 🎸 and workout 🤸🏼
+Im a Data Scientist|ML Engineer based in Paris, France 🇫🇷. I have Bachelor’s degree in Computer Engineering and Master’s in Machine Learning. I enjoy solving problems and have a big appetite for continually learning and growing. In my spare time I like to read 📝, cook 🍲, play guitar 🎸 and workout 🤸🏼
 
 
 <h4><strong>Languages</strong></h4>
